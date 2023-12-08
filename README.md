@@ -61,3 +61,8 @@ Criar score para classificar melhores alunos.
 
 ![Analise](https://i.postimg.cc/rmbZHSPP/image.png)
 
+<br/>
+
+## Resultados das Análises
+
+![Analise](https://i.postimg.cc/4xcDCNk3/image.png)
